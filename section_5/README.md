@@ -10,8 +10,8 @@ Based on topics from the **Coders of Delhi — Data Science Internship** course.
 
 | # | Assignment | Topics Covered | Difficulty |
 |---|-----------|---------------|------------|
-| 1 | [CodeConnect — The Developer Network](./assignment1_codeconnect.md) | JSON loading, data cleaning, deduplication | ⭐⭐☆☆☆ |
-| 2 | [SmartSuggest — Recommendations Engine](./assignment2_smartsuggest.md) | Mutual friends algorithm, collaborative filtering, edge cases | ⭐⭐⭐☆☆ |
+| 1 | [CodeConnect — The Developer Network](./assignment_1.md) | JSON loading, data cleaning, deduplication | ⭐⭐☆☆☆ |
+| 2 | [SmartSuggest — Recommendations Engine](./assignment_2.md) | Mutual friends algorithm, collaborative filtering, edge cases | ⭐⭐⭐☆☆ |
 
 ---
 
