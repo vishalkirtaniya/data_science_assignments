@@ -43,6 +43,12 @@ def cleaning(data):
 
 cleaned = cleaning(original)
 
+def save_cleaned_data(cleaned):
+    with open('cleaned.json', 'w') as file:
+        json.dump(cleaned, file, indent=2)
+
+save_cleaned_data(cleaned)
+
 for user in cleaned['users']:
     print(user)
 
