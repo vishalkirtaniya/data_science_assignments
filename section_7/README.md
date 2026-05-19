@@ -25,8 +25,8 @@ These assignments are based on the NumPy section of the data science course. Top
 
 | # | File | Topic | Difficulty |
 |---|------|-------|------------|
-| 1 | [assignment1.md](./assignment1_numpy_fundamentals.md) | Array creation, dtypes, slicing, masking | ⭐⭐☆☆☆ |
-| 2 | [assignment2.md](./assignment2_numpy_analytics.md) | 3D arrays, axes, broadcasting, statistics | ⭐⭐⭐⭐☆ |
+| 1 | [assignment1.md](./assignment1.md) | Array creation, dtypes, slicing, masking | ⭐⭐☆☆☆ |
+| 2 | [assignment2.md](./assignment2.md) | 3D arrays, axes, broadcasting, statistics | ⭐⭐⭐⭐☆ |
 
 > Do them in order — Assignment 2 assumes comfort with the concepts in Assignment 1.
 
