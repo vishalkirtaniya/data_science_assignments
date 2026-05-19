@@ -1,5 +1,3 @@
-# data_science_assignments
-
 # Data Science Assignments
 
 Practice assignments to reinforce data science concepts, structured in the CS50 style: clear problem specs, hints, no solutions handed to you.
